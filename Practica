@@ -1,0 +1,4 @@
+piso = {} 
+piso["a"] = "Tucuman" 
+piso["b"] = "Mendoza"
+piso["c"] = "Cordoba"
